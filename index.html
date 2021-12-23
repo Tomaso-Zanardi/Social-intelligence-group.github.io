@@ -1,0 +1,25 @@
+---
+title: "Social intelligence group"
+layout: single
+permalink: /
+excerpt: "Humboldt-Universität zu Berlin"
+header:
+    overlay_image: /assets/images/home_header.jpeg
+    overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+---
+<h2>About</h2>
+<p>The research group Social Intelligence investigates the social cognitive mechanisms underlying our ability to successfully navigate our social environment.</p>
+
+<h2>News</h2>
+<div>
+    <ul>
+        {% for event in site.data.events %}
+        <li>
+            {% if event.date%}
+            <b>{{event.date}} - </b>
+            {% endif %}
+            {{event.description}}
+        </li>
+        {% endfor %}
+    </ul>
+</div>

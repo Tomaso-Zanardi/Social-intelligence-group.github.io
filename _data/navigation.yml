@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Team"
+    url: /team/
+  - title: "Projects"
+    url: /research_projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
+  - title: "GitHub"
+    url: https://github.com/Social-intelligence-group

@@ -1,0 +1,9 @@
+people:
+  - name: Marcel Brass
+    url: https://users.ugent.be/~mbrass/Web-Site/Dr._Marcel_Brass.html
+    image_path: /assets/images/team/MarcelBrass.jpg
+    title: Principal Investigator
+  - name: David Wisniewski
+    url: https://davidwisniewski.github.io
+    image_path: /assets/images/team/DavidWisniewski.jpeg
+    title: Postdoctoral Research Fellow
