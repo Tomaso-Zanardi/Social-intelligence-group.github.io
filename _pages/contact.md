@@ -7,6 +7,7 @@ share: false
 ---
 
 ### Professor Dr. Marcel Brass
+#### Head of the lab
 Humboldt-Universität zu Berlin\
 Department of Psychology & Berlin School of Mind and Brain & Cluster Science of Intelligence\
 Tel. 030/2093-89773\
@@ -16,8 +17,8 @@ E-mail: <marcel.brass@hu-berlin.de>
 Tuesdays 15.30–16.30 (online)\
 Please register: <mb-socint@hu-berlin.de>
 
-### Lab manager
-Alexandra Säumenicht\
+### Alexandra Säumenicht 
+#### Lab manager
 Tel. 030/2093-89770\
 E-mail: <alexandra.saeumenicht@hu-berlin.de>
 
