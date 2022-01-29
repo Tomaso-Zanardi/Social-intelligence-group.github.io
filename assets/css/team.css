@@ -1,9 +1,9 @@
 /*hide some parts of the navbar*/
 .greedy-nav {
-    background: transparent; // overwrite the default background for minimodals
+    background: transparent; /* overwrite the default background for minimodals*/
 }
 .masthead {
-    border-bottom: transparent; // overwrite the default background for minimodals
+    border-bottom: transparent; /* overwrite the default background for minimodals*/
 }
 
 /* team member list */
