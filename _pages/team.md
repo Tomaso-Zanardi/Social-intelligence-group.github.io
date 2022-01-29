@@ -45,17 +45,17 @@ layout: archive
           {{member.excerpt}}
             <p>
             {% if member.github %}
-            <a href="https://github.com/{{ member.github }}" title="GitHub" rel="nofollow noopener noreferrer me" style="color: none;">
+            <a href="https://github.com/{{ member.github }}" title="GitHub" rel="nofollow noopener noreferrer me">
             <i class="fab fa-fw fa-github" aria-hidden="true"></i>
             </a>
             {% endif %}
             {% if member.google_scholar %}
-            <a href="{{ member.google_scholar}}" title="GitHub" rel="nofollow noopener noreferrer me" style="color: none;">
+            <a href="https://scholar.google.com/citations?user={{ member.google_scholar}}" title="Google Scholar" rel="nofollow noopener noreferrer me">
             <i class="ai ai-google-scholar ai-3x" aria-hidden="true"></i>
             </a>
             {% endif %}
             {% if member.researchgate %}
-            <a href="{{ member.google_scholar}}" title="GitHub" rel="nofollow noopener noreferrer me" style="color: none;">
+            <a href="https://www.researchgate.net/profile/{{ member.researchgate}}" title="Research Gate" rel="nofollow noopener noreferrer me">
             <i class="ai ai-researchgate ai-3x" aria-hidden="true"></i>
             </a>
             {% endif %}

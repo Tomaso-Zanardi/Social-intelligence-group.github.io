@@ -5,7 +5,7 @@ people:
     image_path: /assets/images/team/MarcelBrass.jpg
     title: Principal Investigator
     excerpt: "My name is Marcel Brass. I am German but spent most of my scientific carreer in Beligum. I am Einstein Professor for ‘Social Intelligence’ at the Berlin School of Mind and Brain and the Department of Psychology at the Humboldt-Universität zu Berlin. Furthermore, I am PI in the excellence cluster ‘Science of Intelligence’. After my PhD at the Max Planck Institute for Psychological Research in Munich, I worked six years at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig where I was also awarded a Heisenberg fellowship from the German Research Foundation (DFG). In 2006, I received a research professorship at Ghent University where I worked until I was awarded an Einstein Strategic Professorship in 2020. I am interested in the neuro-cognitive mechanisms underlying our social behaviour and group influence. Furthermore, I want to understand how people intentionally control their thoughts and actions. Finally, I am investigating the influence of high-level beliefs on basic cognitive processes."
-    google_scholar: https://scholar.google.com/citations?user=GCMhq8MAAAAJ&hl=de&oi=ao
+    google_scholar: GCMhq8MAAAAJ&hl=de&oi=ao
   - name: David Wisniewski
     id: 2
     url: https://davidwisniewski.github.io
@@ -16,8 +16,8 @@ people:
   - name: Silvia Formica
     id: 3
     url: https://www.researchgate.net/profile/Silvia-Formica
-    google_scholar: https://scholar.google.com/citations?user=WSUwECYAAAAJ&hl=en&oi=ao
-    researchgate: https://www.researchgate.net/profile/Silvia-Formica
+    google_scholar: WSUwECYAAAAJ&hl=en&oi=ao
+    researchgate: Silvia-Formica
     image_path: /assets/images/team/SilviaFormica.jpg
     title: Postdoctoral Research Fellow
     excerpt: "My name is Silvia Formica and I come from Italy. I am currently a Post-Doc in the lab. <br/> Before moving to Berlin, I studied Psychology, Cognitive Neuroscience and Neuropsychology in Milano and Padova (Italy) and I did my PhD at Gent University (Belgium) under the supervision of Prof. Marcel Brass. My thesis concerned instructions following and I investigated this process using behavioral and electrophysiological measures.<br/>I am interested in the neuro-cognitive mechanisms involved in adapting to novel and challenging situations, and I am curious about how such mechanisms are used in social contexts."
@@ -36,8 +36,9 @@ people:
     github: neltavernier
   - name: Yu Hei SHUM
     id: 6
+    url: https://www.researchgate.net/profile/Yu_Hei_SHUM
     image_path: /assets/images/team/default.jpg
     title: PhD Student
     excerpt: "I am Yu Hei SHUM from Hong Kong. I am currently a Ph.D student in the Berlin School of Mind and Brain and the Humboldt-Universität zu Berlin funded by DAAD. I am supervised by Prof. Marcel Brass. My research is about the neural mechanism behind volition. I test the validity of different decision models that attempt to explain the generation of volition and voluntary behavior."
-    github: neltavernier
-    researchgate: https://www.researchgate.net/profile/Yu-Shum
+    github: YuHeiShum
+    researchgate: Yu-Shum
