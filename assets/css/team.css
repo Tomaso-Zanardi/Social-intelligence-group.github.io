@@ -1,5 +1,12 @@
-// Team settings
+/*hide some parts of the navbar*/
+.greedy-nav {
+    background: transparent; // overwrite the default background for minimodals
+}
+.masthead {
+    border-bottom: transparent; // overwrite the default background for minimodals
+}
 
+/* team member list */
 .archive__item-title {
     margin: 0.5em 0 0.5em;
 }
@@ -10,7 +17,7 @@
 }
 
 .archive__item-body {
-// text-align: center;
+/* text-align: center;*/
 }
 
 .fab{
