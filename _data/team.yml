@@ -1,20 +1,26 @@
 people:
   - name: Marcel Brass
-    id: 1
+    id: mbrass
     url: https://users.ugent.be/~mbrass/Web-Site/Dr._Marcel_Brass.html
     image_path: /assets/images/team/MarcelBrass.jpg
     title: Principal Investigator
     excerpt: "My name is Marcel Brass. I am German but spent most of my scientific carreer in Beligum. I am Einstein Professor for ‘Social Intelligence’ at the Berlin School of Mind and Brain and the Department of Psychology at the Humboldt-Universität zu Berlin. Furthermore, I am PI in the excellence cluster ‘Science of Intelligence’. After my PhD at the Max Planck Institute for Psychological Research in Munich, I worked six years at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig where I was also awarded a Heisenberg fellowship from the German Research Foundation (DFG). In 2006, I received a research professorship at Ghent University where I worked until I was awarded an Einstein Strategic Professorship in 2020. I am interested in the neuro-cognitive mechanisms underlying our social behaviour and group influence. Furthermore, I want to understand how people intentionally control their thoughts and actions. Finally, I am investigating the influence of high-level beliefs on basic cognitive processes."
     google_scholar: GCMhq8MAAAAJ&hl=de&oi=ao
+  - name: Alexandra Säumenicht
+    id: asaemenicht
+    url: https://www.psychologie.hu-berlin.de/de/1694051/1693665
+    image_path: /assets/images/team/default.jpg
+    title: Lab manager
+    excerpt: ""
   - name: David Wisniewski
-    id: 2
+    id: dwisniewski
     url: https://davidwisniewski.github.io
     image_path: /assets/images/team/DavidWisniewski.jpeg
     title: Postdoctoral Research Fellow
     github: davidwisniewski
     excerpt: ""
   - name: Silvia Formica
-    id: 3
+    id: sformica
     url: https://www.researchgate.net/profile/Silvia-Formica
     google_scholar: WSUwECYAAAAJ&hl=en&oi=ao
     researchgate: Silvia-Formica
@@ -22,23 +28,52 @@ people:
     title: Postdoctoral Research Fellow
     excerpt: "My name is Silvia Formica and I come from Italy. I am currently a Post-Doc in the lab. <br/> Before moving to Berlin, I studied Psychology, Cognitive Neuroscience and Neuropsychology in Milano and Padova (Italy) and I did my PhD at Gent University (Belgium) under the supervision of Prof. Marcel Brass. My thesis concerned instructions following and I investigated this process using behavioral and electrophysiological measures.<br/>I am interested in the neuro-cognitive mechanisms involved in adapting to novel and challenging situations, and I am curious about how such mechanisms are used in social contexts."
   - name: Carl Michael Galang
-    id: 4
+    id: mgalang
     url: https://galangca.github.io/
     image_path: /assets/images/team/CarlMichaelGalang.png
     title: Postdoctoral Research Fellow
     excerpt: "I am Carl Michael Galang (just call me Mike!) from Toronto, Canada. I am currently a Post-Doctoral Research Fellow at the Humboldt University of Berlin under the supervision of Prof. Marcel Brass. I completed my undergraduate degree at the University of Toronto with a double major in Cognitive Science and Philosophy. My PhD training is in the emerging field of Social Cognitive Neuroscience and was completed at McMaster University under the supervision of Prof. Sukhvinder Obhi. My Post-Doctoral research focuses on the Sense of Agency; although my research interests span a number of topics including: empathy, social power, and various human mirror neuron system indices (e.g., automatic imitation, motor resonance)."
     github: galangca
+  - name: Matilde Rocca
+    id: mrocca
+    url: https://www.researchgate.net/profile/Matilde-Rocca
+    image_path: /assets/images/team/MatildeRocca.jpg
+    title: Postdoctoral Research Fellow
+    excerpt: ""
+    researchgate: Matilde-Rocca
   - name: Nel Tavernier
-    id: 5
+    id: ntavernier
     image_path: /assets/images/team/default.jpg
     title: PhD Student
     excerpt: "I am Nel Tavernier for Belgium. I am currently a Ph.D student at the Berlin School of Mind and Brain and Humboldt-Universität zu Berlin under the supervision of Prof. Dr. Marcel Brass and Prof. Dr. Michael Pauen. My research topic is about manipulating free will beliefs through immersive Virtual Reality experiences. I investigate whether adding an experience to the method of manipulation could have an impact on down-stream processes (e.g. behavior, cognitive process), which was not the case for previous methods in literature. Further, my research interests include various topics such as: social facilitation, Theory of Mind, and cross-cultural differences in beliefs and behavior."
     github: neltavernier
+  - name: Manisha Biswas
+    id: mbiswas
+    url: https://github.com/ManishaBiswas-socialintelligencelab
+    image_path: /assets/images/team/default.jpg
+    title: PhD Student
+    excerpt: ""
+    github: ManishaBiswas-socialintelligencelab
   - name: Yu Hei SHUM
-    id: 6
-    url: https://www.researchgate.net/profile/Yu_Hei_SHUM
+    id: yshum
+    url: https://www.researchgate.net/profile/Yu-Shum
     image_path: /assets/images/team/default.jpg
     title: PhD Student
     excerpt: "I am Yu Hei SHUM from Hong Kong. I am currently a Ph.D student in the Berlin School of Mind and Brain and the Humboldt-Universität zu Berlin funded by DAAD. I am supervised by Prof. Marcel Brass. My research is about the neural mechanism behind volition. I test the validity of different decision models that attempt to explain the generation of volition and voluntary behavior."
     github: YuHeiShum
     researchgate: Yu-Shum
+  - name: Omar Angelo Ibrahim
+    id: omaribrahim
+    url: https://www.researchgate.net/profile/Omar-Ibrahim-24
+    image_path: /assets/images/team/default.jpg
+    title: Research Assistant
+    excerpt: ""
+    github: OAI01
+    researchgate: Omar-Ibrahim-24
+  - name: Valerii Chirkov
+    id: vchirkov
+    url: https://github.com/vagechirkov
+    image_path: /assets/images/team/ValeriiChirkov.jpg
+    github: vagechirkov
+    title: Research Assistant
+    excerpt: ""
