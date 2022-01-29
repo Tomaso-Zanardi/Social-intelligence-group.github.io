@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-$right-sidebar-width: 200px !default;
+$right-sidebar-width: 100px !default;
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}"; // skin
@@ -26,19 +26,10 @@ html {
   }
 }
 
-.members-text {
-  flex: auto;
-  margin-left: 35px;
-}
-
-.page__title {
-  // text-align: center;
-}
 
 .page__hero--overlay {
   padding: 10em 0;
 }
-
 
 // Bibliography
 .bibliography-button {
@@ -58,3 +49,18 @@ html {
   position:relative;
 }
 
+// Team
+
+.feature__item {
+  text-align: center;
+}
+
+.archive__item-excerpt {
+  margin-top: 0;
+  font-size: 1em;
+}
+
+
+.archive__item {
+  margin: 3em;
+}

@@ -3,9 +3,6 @@ permalink: /publications/
 layout: single
 author_profile: false
 share: false
-toc: true
-toc_label: "Topics"
-toc_sticky: true
 years: [2021, 2020, 2019, 2018]
 page_js:
   - /assets/js/drop-down-effect.js
