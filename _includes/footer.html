@@ -5,3 +5,19 @@
     site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>
     &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
 </div>
+
+<!-- AJax for DropDown Effect of Abstract and BibTex -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        const str = $(this).attr('id');
+
+        $(".bibliography-button").click(function(){
+            const str = $(this).attr('id');
+            const ret = str.split("_");
+            const id = ret[1];
+            $('#' + id).toggle();
+        });
+    });
+</script>
+

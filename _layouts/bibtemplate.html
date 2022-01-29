@@ -1,0 +1,71 @@
+---
+---
+{{reference}}
+<br>
+
+<button class="btn btn--danger bibliography-button" id="b_{{key}}-bibtex">BibTeX</button>
+
+{% if entry.abstract %}
+<button class="btn btn--success bibliography-button" id="b_{{key}}-abstract">Abstract</button>
+{% endif %}
+
+{% if entry.doi %}
+<a href="https://doi.org/{{entry.doi]}}"><button class="btn btn--info bibliography-button">DOI</button></a>
+{% elsif entry.url %}
+<a href="{{entry.url]}}"><button class="btn btn--info bibliography-button">URL</button></a>
+{% endif %}
+
+
+<div class="dropDownBibtex" id="{{key}}-bibtex">
+    <pre>{{entry.bibtex}}</pre>
+</div>
+
+
+<div class="dropDownAbstract" id="{{key}}-abstract">
+    {{entry.abstract}}
+</div>
+
+
+
+
+
+
+
+
+
+
+<!--<div id="{{key}}-materials">-->
+<!--    <ul class="nav nav-pills">-->
+<!--        {% if entry.abstract %}-->
+<!--        <li><a data-toggle="collapse" href="#{{key}}-abstract">Abstract</a></li>-->
+<!--        {% endif %}-->
+
+<!--        <li><button class="btn btn&#45;&#45;success btnId" id="b_{{key}}-bibtex" style="outline:none;">BibTeX</button></li>-->
+<!--        &lt;!&ndash;        <li><a data-toggle="collapse" href="#{{key}}-bibtex">BibTeX</a></li>&ndash;&gt;-->
+<!--        {% if entry.doi %}-->
+
+<!--        <a href="https://doi.org/{{entry.doi]}}">-->
+<!--            <button class="btn btn&#45;&#45;success" style="outline:none; position:relative; white-space: normal;">DOI-->
+<!--            </button>-->
+<!--        </a>-->
+
+<!--        {% elsif entry.url %}-->
+
+<!--        <a href="{{entry.url]}}">-->
+<!--            <button class="btn btn&#45;&#45;info btn&#45;&#45;small btnId btnPub&#45;&#45;url"-->
+<!--                    style="outline:none; position:relative;white-space: normal;">URL-->
+<!--            </button>-->
+<!--        </a>-->
+
+<!--        {% endif %}-->
+<!--    </ul>-->
+
+<!--    {% if entry.abstract %}-->
+<!--    <p id="{{key}}-abstract" class="collapse">{{entry.abstract}}</p>-->
+<!--    {% endif %}-->
+
+<!--&lt;!&ndash;    <pre id="{{key}}-bibtex" class="pre pre-scrollable collapse">{{entry.bibtex}}</pre>&ndash;&gt;-->
+<!--    <div class="pre pre-scrollable collapse" id="{{key}}-bibtex">-->
+<!--        <pre>{{entry.bibtex}}</pre>-->
+<!--    </div>-->
+<!--</div>-->

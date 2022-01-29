@@ -28,10 +28,32 @@ html {
   margin-left: 35px;
 }
 
-.page__title{
+.page__title {
   // text-align: center;
 }
 
-.page__hero--overlay{
+.page__hero--overlay {
   padding: 10em 0;
+}
+
+
+// Bibliography
+.bibliography-button {
+  outline: none !important;
+  position: relative !important;
+  white-space: normal !important;
+  margin-top: 0.5em !important;
+}
+
+.dropDownAbstract{
+  font-size: $type-size-8;
+  display: none;
+  position: relative;
+  padding-left: 3px
+}
+
+.dropDownBibtex{
+  font-size: $type-size-8;
+  display:none;
+  position:relative;
 }
