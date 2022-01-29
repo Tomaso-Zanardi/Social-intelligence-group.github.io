@@ -8,4 +8,9 @@
 <meta name="msapplication-config" content="assets/images/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
-<link href="../../assets/css/team.css" rel="stylesheet">
+
+{% if page.page_css %}
+{% for stylesheet in page.page_css %}
+<link rel="stylesheet" href="{{ stylesheet | relative_url }}">
+{% endfor %}
+{% endif %}

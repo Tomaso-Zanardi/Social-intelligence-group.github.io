@@ -1,7 +1,12 @@
 ---
 title: Team
 permalink: /team/
-layout: archive
+layout: collection
+page_css:
+  - /assets/css/team.css
+  - /assets/css/modal.css
+page_js:
+  - ../assets/js/modal.js
 ---
 
 
@@ -41,7 +46,7 @@ layout: archive
         <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
       </header>
       <div class="modal-content-content">
-        <div class="modal__content">
+        <div class="modal__content text-center">
           {{member.excerpt}}
             <p>
             {% if member.github %}
@@ -69,7 +74,9 @@ layout: archive
   </div>
 </div>
 
-<a data-micromodal-trigger="modal-{{member.id}}" href='javascript:void(0);' class="btn btn--inverse btn--large">About me</a>
+
+<a data-micromodal-trigger="modal-{{member.id}}" href='javascript:void(0);' class="btn btn--success btn--large">About me</a>
+
 {% endif %}
 
 
