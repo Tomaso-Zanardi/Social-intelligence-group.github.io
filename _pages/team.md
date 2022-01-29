@@ -2,6 +2,7 @@
 title: Team
 permalink: /team/
 layout: collection
+
 page_css:
   - /assets/css/team.css
   - /assets/css/modal.css
@@ -15,11 +16,11 @@ page_js:
 {% for member in site.data.team.people %}
 
 
-<div class="feature__item" >
+<div class="feature__item">
 
-<div class="archive__item" style="flex-direction: row">
+<div class="archive__item">
 
-<div class="archive__item-teaser" style="width: 200px">
+<div class="archive__item-teaser">
 
 <a href="{{ member.url }}"> <img src="{{member.image_path}}" alt="{{member.name}}"> </a>
 
@@ -75,7 +76,7 @@ page_js:
 </div>
 
 
-<a data-micromodal-trigger="modal-{{member.id}}" href='javascript:void(0);' class="btn btn--success btn--large">About me</a>
+<a data-micromodal-trigger="modal-{{member.id}}" href='javascript:void(0);' class="btn btn--inverse btn--large">About me</a>
 
 {% endif %}
 
