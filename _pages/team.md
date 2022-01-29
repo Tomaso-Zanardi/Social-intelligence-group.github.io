@@ -1,5 +1,4 @@
 ---
-title: Team
 permalink: /team/
 layout: collection
 page_css:
@@ -40,14 +39,12 @@ page_js:
   <div class="modal__overlay" tabindex="-1" data-micromodal-close>
     <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-{{member.id}}-title">
       <header class="modal__header">
-        <h2 class="modal__title">
-          {{member.name}}
-        </h2>
+        <h1>{{member.name}}</h1>
         <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
       </header>
-      <div class="modal-content-content">
-        <div class="modal__content text-center">
-          {{member.excerpt}}
+      <div>
+        <div>
+            <p>{{member.excerpt}}</p>
             <p>
             {% if member.github %}
             <a href="https://github.com/{{ member.github }}" title="GitHub" rel="nofollow noopener noreferrer me">
@@ -65,12 +62,9 @@ page_js:
             </a>
             {% endif %}
             </p>
-
         </div>
-
       </div>
     </div>
-
   </div>
 </div>
 

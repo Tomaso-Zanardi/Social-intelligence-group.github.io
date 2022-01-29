@@ -1,5 +1,4 @@
 ---
-title: Publications
 permalink: /publications/
 layout: single
 author_profile: false
@@ -16,7 +15,7 @@ page_js:
 
 {% for year in page.years %}
 
-<h4 id="{{year}}">{{year}}</h4>
+<h4 id="{{year}}_volition_and_free_will_belief">{{year}}</h4>
 {% bibliography -f volition_and_free_will_belief -q @*[year={{year}}]* %}
 
 {% endfor %}
@@ -26,7 +25,7 @@ page_js:
 
 {% for year in page.years %}
 
-<h4 id="{{year}}">{{year}}</h4>
+<h4 id="{{year}}_social_context">{{year}}</h4>
 {% bibliography -f social_context -q @*[year={{year}}]* %}
 
 {% endfor %}
@@ -35,7 +34,7 @@ page_js:
 
 {% for year in page.years %}
 
-<h4 id="{{year}}">{{year}}</h4>
+<h4 id="{{year}}_cognitive_control_instruction_following">{{year}}</h4>
 {% bibliography -f cognitive_control_instruction_following -q @*[year={{year}}]* %}
 
 {% endfor %}
