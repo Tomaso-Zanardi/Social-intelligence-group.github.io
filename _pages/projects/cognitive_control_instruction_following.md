@@ -1,5 +1,6 @@
 ---
-title: Representation of Other Agent and Influence of Social Context to Cognition and Behaviour
+title: Cognitive control/instruction following
+permalink: /projects/cognitive_control_instruction_following/
 layout: single
 author_profile: false
 share: false

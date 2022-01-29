@@ -1,5 +1,6 @@
 ---
-title: Volition and Free Will Belief
+title: Representation of Other Agent and Influence of Social Context to Cognition and Behaviour
+permalink: /projects/social_context/
 layout: single
 author_profile: false
 share: false

@@ -1,5 +1,6 @@
 ---
-title: Cognitive control/instruction following
+title: Volition and Free Will Belief
+permalink: /projects/volition_and_free_will_belief/
 layout: single
 author_profile: false
 share: false
