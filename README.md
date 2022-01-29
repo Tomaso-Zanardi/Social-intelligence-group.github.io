@@ -13,3 +13,7 @@ and then open the site in your browser: `http://localhost:4000`
 
 See more information about the deployment process [here](https://github.com/jeffreytse/jekyll-deploy-action). This approach
 allows to deploy the site the includes Jekyll plugins to GitHub Pages.
+
+## Theme
+
+Check the utility classes [here](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/).
