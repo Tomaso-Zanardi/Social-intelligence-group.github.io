@@ -6,6 +6,9 @@
     &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js"></script>
+
+
 <!-- AJax for DropDown Effect of Abstract and BibTex -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
@@ -19,5 +22,29 @@
             $('#' + id).toggle();
         });
     });
+
+
+    document.addEventListener("DOMContentLoaded", function() {
+
+        try {
+
+            MicroModal.init({
+                awaitCloseAnimation: true,
+                disableFocus: true,// set to false, to remove close animation
+                onShow: function(modal) {
+                    // console.log("micromodal open");
+                },
+                onClose: function(modal) {
+                    // console.log("micromodal close");
+                }
+            });
+
+        } catch (e) {
+            console.log("micromodal error: ", e);
+        }
+
+    });
+
+
 </script>
 
