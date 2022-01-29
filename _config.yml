@@ -295,6 +295,13 @@ defaults:
     values:
       layout: single
 
+
+# collection
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 # Bibliography
 scholar:
   style: apa
