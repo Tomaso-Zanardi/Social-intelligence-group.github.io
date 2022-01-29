@@ -2,7 +2,6 @@
 title: Team
 permalink: /team/
 layout: collection
-
 page_css:
   - /assets/css/team.css
   - /assets/css/modal.css

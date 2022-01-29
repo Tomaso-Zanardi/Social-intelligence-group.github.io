@@ -20,6 +20,7 @@
 
 .archive__item {
   position: relative;
+  margin: 3em;
 
   a {
     position: relative;
@@ -303,6 +304,10 @@
     width: 100%;
     clear: both;
     font-size: 1.125em;
+
+    img {
+      width: 50em;
+    }
 
     .archive__item {
       float: left;
