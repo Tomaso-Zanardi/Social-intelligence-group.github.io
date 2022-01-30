@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-layout: single
+layout: collection
 author_profile: false
 share: false
 page_css:
@@ -36,7 +36,7 @@ Luisenstraße 56, Haus 1, 10117 Berlin
 ### Contact us via email:
 <mb-socint@hu-berlin.de>
 
-### Address for correspondence
+### Address for correspondence:
 Humboldt-Universität zu Berlin, Department of Psychology, AG Social Intelligence\
 Sitz: Berlin School of Mind and Brain, Unter den Linden 6, 10099 Berlin, Germany
 
