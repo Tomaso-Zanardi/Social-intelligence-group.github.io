@@ -24,6 +24,7 @@ people:
     url: https://www.researchgate.net/profile/Silvia-Formica
     google_scholar: WSUwECYAAAAJ&hl=en&oi=ao
     researchgate: Silvia-Formica
+    orcid: 0000-0001-9984-1878
     image_path: /assets/images/team/SilviaFormica.jpg
     title: Postdoctoral Research Fellow
     excerpt: "My name is Silvia Formica and I come from Italy. I am currently a Post-Doc in the lab. <br/> Before moving to Berlin, I studied Psychology, Cognitive Neuroscience and Neuropsychology in Milano and Padova (Italy) and I did my PhD at Gent University (Belgium) under the supervision of Prof. Marcel Brass. My thesis concerned instructions following and I investigated this process using behavioral and electrophysiological measures.<br/>I am interested in the neuro-cognitive mechanisms involved in adapting to novel and challenging situations, and I am curious about how such mechanisms are used in social contexts."
@@ -75,6 +76,7 @@ people:
     url: https://github.com/vagechirkov
     image_path: /assets/images/team/ValeriiChirkov.jpg
     github: vagechirkov
+    orcid: 0000-0003-3950-898X
     title: Research Assistant
     excerpt: ""
   - name: Ayça Akan
@@ -82,5 +84,6 @@ people:
     url: https://orcid.org/0000-0002-4564-7591
     image_path: /assets/images/team/AycaAkan.jpg
     github: Aycakan
+    orcid: 0000-0002-4564-7591
     title: Master's student
     excerpt: "My name is Ayca Akan and I come from Turkey. I am a master's student at the Berlin School of Mind and Brain, and a lab rotation student at Social Intelligence Lab. My main research interest are the neurocognitive mechanisms of attention and executive functions, theory (re)construction, and cognitive modeling. Currently, I am investigating how rule-breaking affects the sense of agency under the team of Prof.Brass. Furthermore, I am a passionate advocate for good scientific practices, and currently conducting a meta-research study on the Western Blot visualization practices of scientists, under Charité – Universitätsmedizin Berlin, and writing a paper on replication crisis in neuroscience under Boğaziçi University, Turkey."

@@ -61,6 +61,11 @@ page_js:
             <i class="ai ai-researchgate ai-3x" aria-hidden="true"></i>
             </a>
             {% endif %}
+            {% if member.orcid %}
+            <a href="https://orcid.org/{{ member.orcid}}" title="Orcid" rel="nofollow noopener noreferrer me">
+            <i class="ai ai-orcid ai-3x" aria-hidden="true"></i>
+            </a>
+            {% endif %}
             </p>
         </div>
       </div>
