@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-layout: collection
+layout: archive
 page_css:
   - /assets/css/team.css
   - /assets/css/modal.css

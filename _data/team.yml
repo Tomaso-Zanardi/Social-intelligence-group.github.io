@@ -77,3 +77,10 @@ people:
     github: vagechirkov
     title: Research Assistant
     excerpt: ""
+  - name: Ayça Akan
+    id: aakan
+    url: https://orcid.org/0000-0002-4564-7591
+    image_path: /assets/images/team/AycaAkan.jpg
+    github: Aycakan
+    title: Master's student
+    excerpt: "My name is Ayca Akan and I come from Turkey. I am a master's student at the Berlin School of Mind and Brain, and a lab rotation student at Social Intelligence Lab. My main research interest are the neurocognitive mechanisms of attention and executive functions, theory (re)construction, and cognitive modeling. Currently, I am investigating how rule-breaking affects the sense of agency under the team of Prof.Brass. Furthermore, I am a passionate advocate for good scientific practices, and currently conducting a meta-research study on the Western Blot visualization practices of scientists, under Charité – Universitätsmedizin Berlin, and writing a paper on replication crisis in neuroscience under Boğaziçi University, Turkey."
