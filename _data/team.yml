@@ -18,7 +18,10 @@ people:
     image_path: /assets/images/team/DavidWisniewski.jpeg
     title: Postdoctoral Research Fellow
     github: davidwisniewski
-    excerpt: ""
+    excerpt: "I am a cognitive neuroscientist at Ghent University, currently working as a guest researcher at the Social Intelligence Lab. I did my PhD at the Bernstein Center for Computational Neuroscience in Berlin, and then did a postdoc at the Department of Experimental Psychology, Ghent University.<br><br>My research focuses on the neural basis of cognitive control and intentional action, how task-relevant information is represented in the brain, and how such representations change under varying demands. To investigate these issues, I combine functional magnetic resonance imaging (fMRI), machine learning tools such as multivariate decoding and representational similarity analysis, and computational modelling techniques.<br><br>I also have a keen interest in laypeople’s views on free will (“Do you think free will exists?”), whether (dis)believing in free will affects our behavior, and how beliefs and attitudes towards free will are related."
+    google_scholar: dzT7DVMAAAAJ
+    orcid: 0000-0003-4793-1171
+    researchgate: David-Wisniewski-2
   - name: Silvia Formica
     id: sformica
     url: https://www.researchgate.net/profile/Silvia-Formica
@@ -42,6 +45,14 @@ people:
     title: Postdoctoral Research Fellow
     excerpt: ""
     researchgate: Matilde-Rocca
+  - name: Julia M. Rodriguez Buritica
+    id: jrodriguezburitica
+    url: https://www.researchgate.net/profile/Matilde-Rocca
+    image_path: /assets/images/team/JuliaRodriguezBuritica.jpg
+    title: Postdoctoral Research Fellow
+    excerpt: "I am a developmental cognitive neuroscientist at the Freie Universität Berlin working as a guest researcher at the Social Intelligence Lab. I did my PhD at the Berlin School of Mind and Brain, and then worked as a DAAD scholar at the Brain and Development Lab at the Leiden University before I started my postdoc at the Center for Cognitive Neuroscience Berlin, Freie Universität Berlin. I am interested in social learning and decision making from a developmental cognitive neuroscience perspective using EEG, fMRI and computational modeling."
+    researchgate: Julia-Rodriguez-Buritica
+    google_scholar: a48LL5wAAAAJ&hl=en
   - name: Nel Tavernier
     id: ntavernier
     image_path: /assets/images/team/default.jpg

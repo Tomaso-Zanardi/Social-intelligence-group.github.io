@@ -7,7 +7,7 @@ page_css:
 - /assets/css/contacts.css
 feature_row:
 - title: Berlin School of Mind and Brain
-  url: http://www.mind-and-brain.de/home/
+  url: http://www.mind-and-brain.de/people/social-intelligence-group/
   image_path: /assets/images/contacts/mb_logo.png
   btn_class: "btn--primary"
   btn_label: "Open website"
