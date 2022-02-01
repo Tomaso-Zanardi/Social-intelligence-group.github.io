@@ -22,6 +22,7 @@ people:
     google_scholar: dzT7DVMAAAAJ
     orcid: 0000-0003-4793-1171
     researchgate: David-Wisniewski-2
+    twitter: wisneurowski
   - name: Silvia Formica
     id: sformica
     url: https://www.researchgate.net/profile/Silvia-Formica
@@ -61,11 +62,11 @@ people:
     github: neltavernier
   - name: Manisha Biswas
     id: mbiswas
-    url: https://github.com/ManishaBiswas-socialintelligencelab
-    image_path: /assets/images/team/default.jpg
+    url: https://twitter.com/manisha_biswas_
+    image_path: /assets/images/team/ManishaBiswas.jpg
     title: PhD Student
-    excerpt: ""
-    github: ManishaBiswas-socialintelligencelab
+    excerpt: "My name is Manisha, I work on a DAAD-funded doctoral project at the Social Intelligence lab. My project examines how social influence operates in the context of ritualistic behaviour. I attempt to recreate aspects of the social world in VR environments as I am intrigued by the confluence between cognitive neuroscience and anthropology. I completed my postgraduate studies at the University of Oxford and previously received training in cognitive science from Indian Institute of Technology (IITGN) at the Control and Learning of Action Lab. I have a keen interest in embodied cognition, two-person neuroscience and group conformity."
+    twitter: manisha_biswas_
   - name: Yu Hei SHUM
     id: yshum
     url: https://www.researchgate.net/profile/Yu-Shum
@@ -90,6 +91,7 @@ people:
     orcid: 0000-0003-3950-898X
     title: Research Assistant
     excerpt: ""
+    twitter: ValeriiChirkov
   - name: Ayça Akan
     id: aakan
     url: https://orcid.org/0000-0002-4564-7591

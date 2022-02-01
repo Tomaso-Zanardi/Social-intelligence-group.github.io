@@ -66,6 +66,11 @@ page_js:
             <i class="ai ai-orcid ai-3x" aria-hidden="true"></i>
             </a>
             {% endif %}
+            {% if member.twitter %}
+            <a href="https://twitter.com/{{ member.twitter}}" title="Twitter" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
+            </a>
+            {% endif %}
             </p>
         </div>
       </div>
