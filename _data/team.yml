@@ -44,8 +44,10 @@ people:
     url: https://www.researchgate.net/profile/Matilde-Rocca
     image_path: /assets/images/team/MatildeRocca.jpg
     title: Postdoctoral Research Fellow
-    excerpt: ""
+    excerpt: "My name is Matilde Rocca, and I am a Post-Doctoral Research Fellow at the Social Intelligence Lab. I did my PhD in Neuroscience at the University of Turin, within the Cognition, Motion and Neuroscience Lab led by Prof. Cristina Becchio, under the supervision of Prof. Andrea Cavallo. I performed all my research activity at the Fondazione Istituto Italiano di Tecnologia, based in Genoa, Italy. My PhD project focused on studying how we represent other people's actions when we actively engage in a social interaction with them. To do this, I studied detailed aspects of upper-limb movement kinematics during real-time dyadic joint actions. Within the Social Intelligence Lab, I aim to investigate how we represent the actions performed by multiple agents simultaneously, and how these representations affect our own motor behaviour, in order to address issues related to social group conformity from a motor perspective."
     researchgate: Matilde-Rocca
+    google_scholar: 86jtfe0AAAAJ
+    orcid: 0000-0002-3817-5514
   - name: Julia M. Rodriguez Buritica
     id: jrodriguezburitica
     url: https://www.researchgate.net/profile/Julia-Rodriguez-Buritica
@@ -80,7 +82,7 @@ people:
     url: https://www.researchgate.net/profile/Omar-Ibrahim-24
     image_path: /assets/images/team/default.jpg
     title: Research Assistant
-    excerpt: ""
+    excerpt: "I am a master’s student at the Berlin School of Mind and Brain. I did my undergraduate in psychology with a minor in cognitive science at the American University of Beirut. I am currently working as a research assistant at the Social Intelligence Lab, investigating the contribution of auditory and visual cues to group contagion in a Virtual Reality environment. Previously, I have investigated the tonotopy and periodotopy of the primary auditory cortex using fMRI. My research interests tend to center around social cognition and evolutionary psychology/neuroscience, with a special interest in group-related processes and the role of attention and memory in social cognition."
     github: OAI01
     researchgate: Omar-Ibrahim-24
   - name: Valerii Chirkov
