@@ -6,6 +6,8 @@ main:
     url: /team/
   - title: "Projects"
     url: /research_projects/
+  - title: "Methods"
+    url: /methods/
   - title: "Publications"
     url: /publications/
   - title: "Contact"
