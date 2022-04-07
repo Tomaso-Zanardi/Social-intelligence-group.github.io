@@ -69,6 +69,7 @@ people:
     title: PhD Student
     excerpt: "My name is Manisha, I work on a DAAD-funded doctoral project at the Social Intelligence lab. My project examines how social influence operates in the context of ritualistic behaviour. I attempt to recreate aspects of the social world in VR environments as I am intrigued by the confluence between cognitive neuroscience and anthropology. I completed my postgraduate studies at the University of Oxford and previously received training in cognitive science from Indian Institute of Technology (IITGN) at the Control and Learning of Action Lab. I have a keen interest in embodied cognition, two-person neuroscience and group conformity."
     twitter: manisha_biswas_
+    orcid: 0000-0001-5389-9900
   - name: Yu Hei SHUM
     id: yshum
     url: https://www.researchgate.net/profile/Yu-Shum
@@ -102,5 +103,11 @@ people:
     image_path: /assets/images/team/AycaAkan.jpg
     github: Aycakan
     orcid: 0000-0002-4564-7591
-    title: Master's student
+    title: Lab Rotation Student
     excerpt: "My name is Ayca Akan and I come from Turkey. I am a master's student at the Berlin School of Mind and Brain, and a lab rotation student at Social Intelligence Lab. My main research interest are the neurocognitive mechanisms of attention and executive functions, theory (re)construction, and cognitive modeling. Currently, I am investigating how rule-breaking affects the sense of agency under the team of Prof.Brass. Furthermore, I am a passionate advocate for good scientific practices, and currently conducting a meta-research study on the Western Blot visualization practices of scientists, under Charité – Universitätsmedizin Berlin, and writing a paper on replication crisis in neuroscience under Boğaziçi University, Turkey."
+  - name: Martha Luk
+    id: mluk
+    title: Lab Rotation Student
+    image_path: /assets/images/team/default.jpg
+    excerpt: ""
+    
