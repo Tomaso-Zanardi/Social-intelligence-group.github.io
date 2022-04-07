@@ -3,7 +3,7 @@ title: Projects
 permalink: /research_projects/
 layout: splash
 feature_row:
-- title: Cognitive control/instruction following
+- title: Cognitive control
   url: projects/cognitive_control_instruction_following/
   image_path: /assets/images/home_header.jpeg
   excerpt: Project description
@@ -15,7 +15,7 @@ feature_row:
   excerpt: Project description
   btn_class: "btn--primary"
   btn_label: "Learn more"
-- title: Representation of Other Agent and Influence of Social Context to Cognition and Behaviour
+- title: Social Influence
   url: projects/social_context/
   image_path: /assets/images/home_header.jpeg
   excerpt: Project description
