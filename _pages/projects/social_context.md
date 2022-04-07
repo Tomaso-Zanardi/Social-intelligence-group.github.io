@@ -17,4 +17,4 @@ We investigate social intelligence on three different levels:
 * The cultural level: How does our cultural environment and high-level beliefs contribute to social intelligence?
 
 
-<img src="/assets/images/projects/image.jpg" alt="some text">
+<img src="../../assets/images/projects/image.jpeg" alt="some text">
