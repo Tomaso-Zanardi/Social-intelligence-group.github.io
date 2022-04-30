@@ -47,27 +47,27 @@ page_js:
             <p>{{member.excerpt}}</p>
             <p>
             {% if member.github %}
-            <a href="https://github.com/{{ member.github }}" title="GitHub" rel="nofollow noopener noreferrer me">
+            <a href="https://github.com/{{ member.github }}" style="text-decoration:None" title="GitHub" rel="nofollow noopener noreferrer me">
             <i class="fab fa-fw fa-github" aria-hidden="true"></i>
             </a>
             {% endif %}
             {% if member.google_scholar %}
-            <a href="https://scholar.google.com/citations?user={{ member.google_scholar}}" title="Google Scholar" rel="nofollow noopener noreferrer me">
+            <a href="https://scholar.google.com/citations?user={{ member.google_scholar}}" style="text-decoration:None" title="Google Scholar" rel="nofollow noopener noreferrer me">
             <i class="ai ai-google-scholar ai-3x" aria-hidden="true"></i>
             </a>
             {% endif %}
             {% if member.researchgate %}
-            <a href="https://www.researchgate.net/profile/{{ member.researchgate}}" title="Research Gate" rel="nofollow noopener noreferrer me">
+            <a href="https://www.researchgate.net/profile/{{ member.researchgate}}" style="text-decoration:None" title="Research Gate" rel="nofollow noopener noreferrer me">
             <i class="ai ai-researchgate ai-3x" aria-hidden="true"></i>
             </a>
             {% endif %}
             {% if member.orcid %}
-            <a href="https://orcid.org/{{ member.orcid}}" title="Orcid" rel="nofollow noopener noreferrer me">
+            <a href="https://orcid.org/{{ member.orcid}}" style="text-decoration:None" title="Orcid" rel="nofollow noopener noreferrer me">
             <i class="ai ai-orcid ai-3x" aria-hidden="true"></i>
             </a>
             {% endif %}
             {% if member.twitter %}
-            <a href="https://twitter.com/{{ member.twitter}}" title="Twitter" rel="nofollow noopener noreferrer me">
+            <a href="https://twitter.com/{{ member.twitter}}" style="text-decoration:None" title="Twitter" rel="nofollow noopener noreferrer me">
             <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
             </a>
             {% endif %}
