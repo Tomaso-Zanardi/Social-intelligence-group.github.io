@@ -21,6 +21,12 @@ feature_row:
   excerpt: Project description
   btn_class: "btn--primary"
   btn_label: "Learn more"
+- title: Test 1
+  url: projects/test_1/
+  image_path: /assets/images/home_header.jpeg
+  excerpt: Project description
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
 ---
 
 <br />
