@@ -83,7 +83,7 @@ people:
     excerpt: "My name is Manisha, I work on a DAAD-funded doctoral project at the Social Intelligence lab. My project examines how social influence operates in the context of ritualistic behaviour. I attempt to recreate aspects of the social world in VR environments as I am intrigued by the confluence between cognitive neuroscience and anthropology. I completed my postgraduate studies at the University of Oxford and previously received training in cognitive science from Indian Institute of Technology (IITGN) at the Control and Learning of Action Lab. I have a keen interest in embodied cognition, two-person neuroscience and group conformity."
     twitter: manisha_biswas_
     orcid: 0000-0001-5389-9900
-   - name: Wei Peng
+  - name: Wei Peng
     id: WeiPeng
     url:  https://orcid.org/0000-0001-5197-7282
     image_path: /assets/images/team/default.jpg
@@ -114,7 +114,7 @@ people:
     url: https://www.researchgate.net/profile/Omar-Ibrahim-24
     image_path: /assets/images/team/OmarAngeloIbrahim.jpg
     title: Research Assistant
-    excerpt: "I am a master’s student at the Berlin School of Mind and Brain. I did my undergraduate in psychology with a minor in cognitive science at the American University of Beirut. I am currently working as a research assistant at the Social Intelligence Lab, investigating the contribution of auditory and visual cues to group contagion in a Virtual Reality environment. Previously, I have investigated the tonotopy and periodotopy of the primary auditory cortex using fMRI. My research interests tend to center around social cognition and evolutionary psychology/neuroscience, with a special interest in group-related processes and the role of attention and memory in social cognition."
+    excerpt: "I am a master's student at the Berlin School of Mind and Brain. I did my undergraduate in psychology with a minor in cognitive science at the American University of Beirut. I am currently working as a research assistant at the Social Intelligence Lab, investigating the contribution of auditory and visual cues to group contagion in a Virtual Reality environment. Previously, I have investigated the tonotopy and periodotopy of the primary auditory cortex using fMRI. My research interests tend to center around social cognition and evolutionary psychology/neuroscience, with a special interest in group-related processes and the role of attention and memory in social cognition."
     github: OAI01
     researchgate: Omar-Ibrahim-24
   - name: Valerii Chirkov
@@ -152,7 +152,7 @@ people:
     url: https://scholar.google.com/citations?hl=de&user=-U30VakAAAAJ 
     image_path: /assets/images/team/default.jpg
     orcid: 0000-0002-0321-2864
-    researchgate: Moritz-Bammel
+    researchgate: Moritz_Bammel
     google_scholar: -U30VakAAAAJ 
     twitter: moritz_bammel
     title: Lab Rotation Student
