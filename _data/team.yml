@@ -56,6 +56,16 @@ people:
     excerpt: "I am a developmental cognitive neuroscientist at the Freie Universität Berlin working as a guest researcher at the Social Intelligence Lab. I did my PhD at the Berlin School of Mind and Brain, and then worked as a DAAD scholar at the Brain and Development Lab at the Leiden University before I started my postdoc at the Center for Cognitive Neuroscience Berlin, Freie Universität Berlin. I am interested in social learning and decision making from a developmental cognitive neuroscience perspective using EEG, fMRI and computational modeling."
     researchgate: Julia-Rodriguez-Buritica
     google_scholar: a48LL5wAAAAJ&hl=en
+  - name: Asieh Daneshi
+    id: asiehdaneshi
+    url:  https://www.researchgate.net/profile/Asieh-Daneshi-2
+    image_path: /assets/images/team/default.jpg
+    title: Postdoctoral Research Fellow
+    excerpt: "My name is Asieh Daneshi and I come from Iran. I am currently a Post-Doc researcher in Marcel’s lab. My bachelor and master studies were on electrical engineering and my PhD was on biomedical engineering (bioelectric). For my PhD, I worked on computational models of decision-making during driving (based on attention). I conducted my experiments in virtual reality environment. I have also experience in recording and analyzing eye motion, EEG, and fMRI data. I am interested to study how does the decision-making process take place in our brains, especially in dynamic environments. The title of my current project in Marcel’s lab is “Experimental investigation of behavioral contagion in VR”. We are studying how decisions of each person can affect the decisions of other persons around him/her."
+    github: Asieh-Daneshi
+    researchgate: Asieh-Daneshi-2
+    google_scholar: _XJAxTHvcRkC&hl=en
+    orcid: 0000-0003-0748-4012
   - name: Mathias Van der Biest
     id: MathiasVanderBiest
     url: https://www.researchgate.net/profile/Mathias-Van-Der-Biest-2
@@ -73,6 +83,13 @@ people:
     excerpt: "My name is Manisha, I work on a DAAD-funded doctoral project at the Social Intelligence lab. My project examines how social influence operates in the context of ritualistic behaviour. I attempt to recreate aspects of the social world in VR environments as I am intrigued by the confluence between cognitive neuroscience and anthropology. I completed my postgraduate studies at the University of Oxford and previously received training in cognitive science from Indian Institute of Technology (IITGN) at the Control and Learning of Action Lab. I have a keen interest in embodied cognition, two-person neuroscience and group conformity."
     twitter: manisha_biswas_
     orcid: 0000-0001-5389-9900
+   - name: Wei Peng
+    id: WeiPeng
+    url:  https://orcid.org/0000-0001-5197-7282
+    image_path: /assets/images/team/default.jpg
+    title: PhD Student
+    excerpt: "My name is Wei Peng. I am a Ph.D student at Ghent University (supported by Chinese Scholarship Council). Before I started my Ph.D at Ghent University, I was doing some research about human addiction (smoking, drugs et al.) using fMRI and rTMS at Hangzhou Normal University in China. During my Ph.D, I am interested in the relationships between high-level beliefs and fundamental social perception."
+    orcid: 0000-0001-5197-7282
   - name: Yu Hei SHUM
     id: yshum
     url: https://www.researchgate.net/profile/Yu-Shum
@@ -124,4 +141,20 @@ people:
     title: Lab Rotation Student
     image_path: /assets/images/team/default.jpg
     excerpt: ""
+  - name: Jurena Wille
+    id: jurenaWille
+    url: https://www.researchgate.net/profile/Jurena-Wille
+    image_path: /assets/images/team/default.jpg
+    title: Lab Rotation Student
+    excerpt: "My name is Jurena Wille, I am from Germany and I have a graduate degree in psychology with a focus on cognitive neuroscience and legal psychology. In my master's thesis I investigated the influence of conceptual and visual features on memory performance for visual scenes. Currently I am a student in the master's program of the Berlin School of Mind and Brain and work a lab rotation in the Social Intelligence lab under the supervision of Prof. Dr. Marcel Brass and Dr. Davis Wiesniewski. My main research interests lie in conformity behavior, perceptions of morality and responsibility attributions."
+  - name: Moritz Bammel 
+    id: moritzbammel 
+    url: https://scholar.google.com/citations?hl=de&user=-U30VakAAAAJ 
+    image_path: /assets/images/team/default.jpg
+    orcid: 0000-0002-0321-2864
+    researchgate: Moritz-Bammel
+    google_scholar: -U30VakAAAAJ 
+    twitter: moritz_bammel
+    title: Lab Rotation Student
+    excerpt: "My name is Moritz and I am a Master’s student at the Berlin School of Mind and Brain at Humboldt University. I completed my undergraduate studies in cognitive science at the University of Osnabrueck in Germany, and I am highly interested in applying the theoretical principles of 4E-cognition to empirical research in cognitive neuroscience and psychology. In my Bachelor’s thesis, I studied spontaneous thought using EEG, and I was involved in a project looking at lay people’s susceptibility to neuroreductionism in psychiatry. In my Master’s thesis, I am investigating the embodied dynamics of reading comprehension by applying nonlinear methods to eye-tracking data. My thesis is co-supervised by Prof. Marcel Brass and Dr. Guilherme Sanches de Oliveira (TU Berlin)."
     
