@@ -33,6 +33,12 @@ feature_row:
   excerpt: Project description
   btn_class: "btn--primary"
   btn_label: "Learn more"
+- title: Test 3
+  url: projects/test_3/
+  image_path: /assets/images/projects/image.jpeg
+  excerpt: Project description
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
 ---
 
 <br />
