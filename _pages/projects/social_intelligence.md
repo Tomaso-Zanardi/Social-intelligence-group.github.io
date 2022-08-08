@@ -1,6 +1,6 @@
 ---
-title: Representation of Other Agent and Influence of Social Context to Cognition and Behaviour
-permalink: /projects/social_context/
+title: Social intelligence
+permalink: /projects/social_intelligence/
 layout: single
 author_profile: false
 share: false

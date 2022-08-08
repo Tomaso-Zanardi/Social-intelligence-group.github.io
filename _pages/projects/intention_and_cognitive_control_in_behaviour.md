@@ -1,6 +1,6 @@
 ---
-title: Cognitive control/instruction following
-permalink: /projects/cognitive_control_instruction_following/
+title: Intention and cognitive control in behaviour
+permalink: /projects/intention_and_cognitive_control_in_behaviour/
 layout: single
 author_profile: false
 share: false
