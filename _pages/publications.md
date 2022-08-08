@@ -17,21 +17,3 @@ page_js:
 
 {% endfor %}
 
-
-<h3  id="social_context">Representation of Other Agent and Influence of Social Context to Cognition and Behaviour</h3>
-
-{% for year in page.years %}
-
-<h4 id="{{year}}_social_context">{{year}}</h4>
-{% bibliography -f social_context -q @*[year={{year}}]* %}
-
-{% endfor %}
-
-<h3  id="cognitive_control_instruction_following">Cognitive control/instruction following</h3>
-
-{% for year in page.years %}
-
-<h4 id="{{year}}_cognitive_control_instruction_following">{{year}}</h4>
-{% bibliography -f cognitive_control_instruction_following -q @*[year={{year}}]* %}
-
-{% endfor %}
