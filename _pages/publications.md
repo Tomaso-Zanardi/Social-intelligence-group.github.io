@@ -13,7 +13,7 @@ page_js:
 {% for year in page.years %}
 
 <h4 id="{{year}}_publication_since_2020">{{year}}</h4>
-{% bibliography -f publication_since_2020 -q @*[year={{year}}]* %}
+{% bibliography -f publication_since_M_B -q @*[year={{year}}]* %}
 
 {% endfor %}
 
