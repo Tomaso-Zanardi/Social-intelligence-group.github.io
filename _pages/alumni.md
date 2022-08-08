@@ -6,6 +6,6 @@ author_profile: false
 share: false
 ---
 
-* VR
-* EEG
-* fMRI
+* 
+* 
+* 
