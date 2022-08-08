@@ -3,39 +3,15 @@ title: Projects
 permalink: /research_projects/
 layout: splash
 feature_row:
-- title: Cognitive control
-  url: projects/cognitive_control_instruction_following/
+- title: Social Intelligence
+  url: projects/social_intelligence/
   image_path: /assets/images/home_header.jpeg
   excerpt: Project description
   btn_class: "btn--primary"
   btn_label: "Learn more"
-- title: Volition and Free Will Belief
-  url: projects/volition_and_free_will_belief/
+- title: Intention and Cognitive Control in Behaviour
+  url: projects/intention_and_cognitive_control_in_behaviour/
   image_path: /assets/images/home_header.jpeg
-  excerpt: Project description
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
-- title: Social Influence
-  url: projects/social_context/
-  image_path: /assets/images/home_header.jpeg
-  excerpt: Project description
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
-- title: Test 1
-  url: projects/test_1/
-  image_path: /assets/images/home_header.jpeg
-  excerpt: Project description
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
-- title: Test 2
-  url: projects/test_2/
-  image_path: /assets/images/home_header.jpeg
-  excerpt: Project description
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
-- title: Test 3
-  url: projects/test_3/
-  image_path: /assets/images/projects/image.jpeg
   excerpt: Project description
   btn_class: "btn--primary"
   btn_label: "Learn more"
