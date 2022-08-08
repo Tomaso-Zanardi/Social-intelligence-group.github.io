@@ -1,5 +1,5 @@
 ---
-title: Methods
+title: Alumni
 permalink: /alumni/
 layout: single
 author_profile: false
