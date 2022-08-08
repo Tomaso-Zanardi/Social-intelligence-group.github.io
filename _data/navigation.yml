@@ -12,5 +12,11 @@ main:
     url: /publications/
   - title: "Contact"
     url: /contact/
+  - title: "affiliation"
+    url: /affiliation/
+  - title: "funding"
+    url: /funding/
+  - title: "alumni"
+    url: /alumni/
   - title: "GitHub"
     url: https://github.com/Social-intelligence-group
