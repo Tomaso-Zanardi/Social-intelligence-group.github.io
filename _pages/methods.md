@@ -12,7 +12,7 @@ feature_row:
   btn_label: "Open website"
 ---
 
-
-* VR
-* EEG
-* fMRI
+<br />
+<div class="grid__wrapper">
+{% include feature_row %}
+</div>

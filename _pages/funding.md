@@ -27,3 +27,8 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Open website"
 ---
+
+<br />
+<div class="grid__wrapper">
+{% include feature_row %}
+</div>
