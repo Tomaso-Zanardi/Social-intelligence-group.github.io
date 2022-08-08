@@ -3,17 +3,17 @@ permalink: /publications/
 layout: single
 author_profile: false
 share: false
-years: [2021, 2020, 2019, 2018]
+years: [2022, 2021, 2020, 2019]
 page_js:
   - /assets/js/drop-down-effect.js
 ---
 
-<h3  id="volition_and_free_will_belief">Volition and Free Will Belief</h3>
+<h3  id="publication_since_2020">Publication Since 2020</h3>
 
 {% for year in page.years %}
 
-<h4 id="{{year}}_volition_and_free_will_belief">{{year}}</h4>
-{% bibliography -f volition_and_free_will_belief -q @*[year={{year}}]* %}
+<h4 id="{{year}}_publication_since_2020">{{year}}</h4>
+{% bibliography -f publication_since_2020 -q @*[year={{year}}]* %}
 
 {% endfor %}
 
