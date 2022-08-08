@@ -16,4 +16,46 @@ abstract = {In this pre-registered study, we tried to replicate the study by Rig
 langid = {english}
 }
 
+@article{palencianoExploringLinkNovel2021,
+  title = {Exploring the {{Link}} between {{Novel Task Proceduralization}} and {{Motor Simulation}}},
+  author = {Palenciano, Ana F. and {Gonz{\'a}lez-Garc{\'i}a}, Carlos and de Houwer, Jan and Brass, Marcel and Liefooghe, Baptist},
+  year = {2021},
+  month = sep,
+  journal = {Journal of Cognition},
+  volume = {4},
+  number = {1},
+  pages = {57},
+  publisher = {{Ubiquity Press}},
+  issn = {2514-4820},
+  doi = {10.5334/joc.190},
+  url = {http://www.journalofcognition.org/article/10.5334/joc.190/},
+  abstract = {Article: Exploring the Link between Novel Task Proceduralization and Motor Simulation},
+  copyright = {Authors who publish with this journal agree to the following terms:    Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  All third-party images reproduced on this journal are shared under Educational Fair Use. For more information on  Educational Fair Use , please see  this useful checklist prepared by Columbia University Libraries .   All copyright  of third-party content posted here for research purposes belongs to its original owners.  Unless otherwise stated all references to characters and comic art presented on this journal are \textcopyright, \textregistered{} or \texttrademark{} of their respective owners. No challenge to any owner's rights is intended or should be inferred.},
+  langid = {english}
+}
 
+@article{gonzalez-garciaFrontoparietalActionorientedCodes2021,
+  title = {Frontoparietal Action-Oriented Codes Support Novel Instruction Implementation},
+  author = {{Gonz{\'a}lez-Garc{\'i}a}, Carlos and Formica, Silvia and Wisniewski, David and Brass, Marcel},
+  year = {2021},
+  month = feb,
+  journal = {NeuroImage},
+  volume = {226},
+  pages = {117608},
+  issn = {10538119},
+  doi = {10.1016/j.neuroimage.2020.117608},
+  url = {https://linkinghub.elsevier.com/retrieve/pii/S1053811920310934},
+  langid = {english}
+}
+
+@article{gonzalez-garciaFrontoparietalActionorientedCodes2021,
+  title = {Manipulating belief in free will and its downstream consequences: A meta-analysis},
+  author = {{Genschow, Oliver and Cracco, Emiel and Schneider, Jana and Protzko, John and Wisniewski, David and Brass, Marcel and Schooler, Jonathan W},
+  year = {2022},
+  month = jun,
+  journal = {Personality and Social Psychology Review},
+  pages = {1-31},
+  doi = {10.1177/10888683221087527},
+  url = {https://journals.sagepub.com/doi/10.1177/10888683221087527},
+  langid = {english}
+}
