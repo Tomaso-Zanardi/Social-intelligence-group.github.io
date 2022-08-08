@@ -1,11 +1,11 @@
 ---
+title: Methods
 permalink: /alumni/
-layout: collection
+layout: single
 author_profile: false
 share: false
-page_css:
-- /assets/css/alumni.css
-feature_row:
-- name: template
-- name: template
 ---
+
+* VR
+* EEG
+* fMRI
