@@ -21,6 +21,16 @@ feature_row:
   image_path: /assets/images/contacts/hu_logo.jpeg
   btn_class: "btn--primary"
   btn_label: "Open website"
+- title: DAAD German Academic Exchange Service
+  url: https://www.daad.de/en/
+  image_path: /assets/images/contacts/daad.png
+  btn_class: "btn--primary"
+  btn_label: "Open website"
+- title: Ghent Univeristy
+  url: https://www.ugent.be/en
+  image_path: /assets/images/contacts/Logo_Gent.png
+  btn_class: "btn--primary"
+  btn_label: "Open website"
 ---
 
 <br />
@@ -31,7 +41,7 @@ feature_row:
 
 ### You can find us here at:
 Humboldt-Universität zu Berlin, Berlin School of Mind and Brain\
-Luisenstraße 56, Haus 1, 10117 Berlin
+Luisenstraße 56, Haus 5, 10115 Berlin
 
 ### Contact us via email:
 <mb-socint@hu-berlin.de>
