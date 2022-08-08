@@ -27,7 +27,5 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Open website"
 ---
-* 
-* 
-* 
+
 
