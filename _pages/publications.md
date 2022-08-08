@@ -8,12 +8,12 @@ page_js:
   - /assets/js/drop-down-effect.js
 ---
 
-<h3  id="publication_since_2020">Publication Since 2020</h3>
+<h3  id="all_publications">Publication Since 2020</h3>
 
 {% for year in page.years %}
 
-<h4 id="{{year}}_publication_since_2020">{{year}}</h4>
-{% bibliography -f publication_since_M_B -q @*[year={{year}}]* %}
+<h4 id="{{year}}all_publications">{{year}}</h4>
+{% bibliography -f all_publications -q @*[year={{year}}]* %}
 
 {% endfor %}
 
