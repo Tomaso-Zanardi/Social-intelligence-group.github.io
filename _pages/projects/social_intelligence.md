@@ -11,6 +11,7 @@ header:
 To gain a deeper understanding of social intelligence we have to understand social behavior on at least three different levels:
  
 <strong>Sensorimotor</strong>
+
 We investigate how phenomena like imitation or acting in synchrony contribute to adaptive social behavior. We investigate these phenomena both in dyadic and in group settings. Furthermore, we try to understand how sensorimotor processes contribute to social conformity. This research is primarily carried out in virtual reality (VR), because VR allows us to create a realistic social environment that is under experimental control.
 
 <strong>Symbolic</strong>
