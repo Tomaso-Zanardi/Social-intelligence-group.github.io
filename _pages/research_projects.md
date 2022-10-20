@@ -6,7 +6,7 @@ feature_row:
 - title: Social Intelligence
   url: projects/social_intelligence/
   image_path: /assets/images/home_header.jpeg
-  excerpt: To gain a deeper understanding of social intelligence we have to understand social behavior on at least three different levels- Sensorimotor level, Symbolic level, and Cultural level.
+  excerpt: To gain a deeper understanding of social intelligence we have to understand social behavior on at least three different levels <strong>Sensorimotor</strong> level, <strong>Symbolic</strong> level, and <strong>Cultural</strong> level.
   btn_class: "btn--primary"
   btn_label: "Learn more"
 - title: Intention and Cognitive Control in Behaviour
