@@ -8,13 +8,14 @@ header:
     teaser: /assets/images/home_header.jpeg
 ---
 
-The research group 'Social Intelligence' investigates the social cognitive mechanisms underlying our ability to successfully navigate our social environment.
+To gain a deeper understanding of social intelligence we have to understand social behavior on at least three different levels:
+ 
+* On the <strong>sensorimotor</strong> level, we investigate how phenomena like imitation or acting in synchrony contribute to adaptive social behavior. We investigate these phenomena both in dyadic and in group settings. Furthermore, we try to understand how sensorimotor processes contribute to social conformity. This research is primarily carried out in virtual reality (VR), because VR allows us to create a realistic social environment that is under experimental control.
+ 
+* On the symbolic level, we try to understand how human primates can acquire new behavior via symbolic instructions. Instruction following is one of the key aspects of social learning in humans and allows us to acquire behavior without effortful trial and error learning. Our research tries to understand how a declarative representation of an instruction can be transformed into a motor program. Furthermore, we investigate how our ability to implement symbolic instructions is influenced by social variables.
+ 
+* On the cultural level, we investigate how high-level beliefs such as religious or philosophical beliefs that are an integral part of our society influence human behavior. Here our basic assumption is that high-level beliefs do not only influence high-level social behavior but also have an influence on more basic sensorimotor processes. While we used text-based manipulations in our previous work, more recently we try to manipulate free-will-related beliefs in game-like environments.
 
-We investigate social intelligence on three different levels:
-
-* The sensorimotor level: How do social agents interact on an embodied level? This involves phenomena such as social imitation.
-* The symbolic level: How does symbolic communication and mental state attribution contribute to social intelligence?
-* The cultural level: How does our cultural environment and high-level beliefs contribute to social intelligence?
 
 
 <img src="../../assets/images/projects/image.jpeg" alt="some text">
