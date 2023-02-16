@@ -12,17 +12,6 @@ people:
     image_path: /assets/images/team/AlexandraSaeumenicht.jpg
     title: Lab manager
     excerpt: "My name is Sandi which is a short form of Alexandra. I support Marcel Brass and the whole team in all organisational and administrative areas and take care of the smooth running of the daily business and general administration tasks."
-  - name: David Wisniewski
-    id: dwisniewski
-    url: https://davidwisniewski.github.io
-    image_path: /assets/images/team/DavidWisniewski.jpeg
-    title: Postdoctoral Research Fellow
-    github: davidwisniewski
-    excerpt: "I am a cognitive neuroscientist at Ghent University, currently working as a guest researcher at the Social Intelligence Lab. I did my PhD at the Bernstein Center for Computational Neuroscience in Berlin, and then did a postdoc at the Department of Experimental Psychology, Ghent University.<br><br>My research focuses on the neural basis of cognitive control and intentional action, how task-relevant information is represented in the brain, and how such representations change under varying demands. To investigate these issues, I combine functional magnetic resonance imaging (fMRI), machine learning tools such as multivariate decoding and representational similarity analysis, and computational modelling techniques.<br><br>I also have a keen interest in laypeople’s views on free will (“Do you think free will exists?”), whether (dis)believing in free will affects our behavior, and how beliefs and attitudes towards free will are related."
-    google_scholar: dzT7DVMAAAAJ
-    orcid: 0000-0003-4793-1171
-    researchgate: David-Wisniewski-2
-    twitter: wisneurowski
   - name: Silvia Formica
     id: sformica
     url: https://www.researchgate.net/profile/Silvia-Formica
@@ -117,17 +106,6 @@ people:
     excerpt: "I am a master's student at the Berlin School of Mind and Brain. I did my undergraduate in psychology with a minor in cognitive science at the American University of Beirut. I am currently working as a research assistant at the Social Intelligence Lab, investigating the contribution of auditory and visual cues to group contagion in a Virtual Reality environment. Previously, I have investigated the tonotopy and periodotopy of the primary auditory cortex using fMRI. My research interests tend to center around social cognition and evolutionary psychology/neuroscience, with a special interest in group-related processes and the role of attention and memory in social cognition."
     github: OAI01
     researchgate: Omar-Ibrahim-24
-  - name: Valerii Chirkov
-    id: vchirkov
-    url: https://github.com/vagechirkov
-    image_path: /assets/images/team/ValeriiChirkov.jpg
-    github: vagechirkov
-    orcid: 0000-0003-3950-898X
-    researchgate: Valerii_Chirkov
-    google_scholar: XRumrPwAAAAJ
-    title: Research Assistant
-    excerpt: "My name is Valerii, and I am a research assistant at the lab. I studied Clinical Psychology in Moscow as my first degree, and currently I am pursuing my master’s degree in Cognitive Neuroscience at HU Berlin. For my thesis in Moscow, I applied natural language processing and data analysis in the field of psychotherapy research. At the same time, I worked as a research assistant to Tommaso Fedele in the Institute for Cognitive Neuroscience at the Higher School of Economics in Moscow. We analyzed MEG recordings of epileptic patients using machine learning algorithms to reveal seizure initialization and propagation. In Berlin, I decided to switch my research to social and cognitive psychology. Since April 2020, I have been working in the Social Intelligence group at HU Berlin, where I have been developing behavioral experiments online and in virtual reality."
-    twitter: ValeriiChirkov
   - name: Martha Luk
     id: mluk
     title: Lab Rotation Student
