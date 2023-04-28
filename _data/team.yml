@@ -55,6 +55,12 @@ people:
     researchgate: Asieh-Daneshi-2
     google_scholar: _XJAxTHvcRkC&hl=en
     orcid: 0000-0003-0748-4012
+  - name: Sam Verschooren 
+    url: https://scholar.google.com/citations?user=MHeR8s4AAAAJ&hl=nl
+    image_path: /assets/images/team/default.jpg
+    twitter: SamVerschooren
+    title: Postdoctoral Research Fellow
+    excerpt: "I’m an FWO postdoctoral fellow and I come from Belgium, where I studied philosophy (‘14) and psychology (‘16) in Antwerp and Ghent. For my PhD (’16-‘20), supervised by Prof. Gilles Pourtois, I investigated how people switch attention between external (sensory) and internal (mental) input. I worked with Prof. Tobias Egner at Duke University (’21-’22) on the balance between external and internal attention in general, drawing inspiration from literatures on visual search, working memory, mind wandering, sustained attention, mental effort, and meditation. Here in Berlin, together with Prof. Marcel Brass and Dr. Michael Gaebler, I will investigate interoceptive attention (access to the internal body) and how it relates to exteroceptive attention, especially when learning to control visceromotor responses (“interoaction”). In addition, I’m interested in comparing 1st and 3rd person perspectives on cognition. Novel methods have been developed recently to directly access what’s in someone’s mind’s eye from a 3rd person perspective, but contemplative traditions, such as meditation and yoga, draw their insights purely from a 1st person perspective. My aim is to see how both approaches can complement each other."
   - name: Mathias Van der Biest
     id: MathiasVanderBiest
     url: https://www.researchgate.net/profile/Mathias-Van-Der-Biest-2
@@ -127,4 +133,4 @@ people:
     twitter: moritz_bammel
     title: Lab Rotation Student
     excerpt: "My name is Moritz and I am a Master’s student at the Berlin School of Mind and Brain at Humboldt University. I completed my undergraduate studies in cognitive science at the University of Osnabrueck in Germany, and I am highly interested in applying the theoretical principles of 4E-cognition to empirical research in cognitive neuroscience and psychology. In my Bachelor’s thesis, I studied spontaneous thought using EEG, and I was involved in a project looking at lay people’s susceptibility to neuroreductionism in psychiatry. In my Master’s thesis, I am investigating the embodied dynamics of reading comprehension by applying nonlinear methods to eye-tracking data. My thesis is co-supervised by Prof. Marcel Brass and Dr. Guilherme Sanches de Oliveira (TU Berlin)."
-    
+  
