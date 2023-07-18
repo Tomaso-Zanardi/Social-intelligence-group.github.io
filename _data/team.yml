@@ -108,14 +108,19 @@ people:
     researchgate: Omar-Ibrahim-24
   - name: Martha Luk
     id: mluk
-    title: Lab Rotation Student
+    title: Student Research Assistant
     image_path: /assets/images/team/default.jpg
     excerpt: ""
+  - name: Tomaso Zanardi 
+    id: ZTomaso
+    title: Student Research Assistant
+    image_path: /assets/images/team/default.jpg
+    excerpt: "I am a master's student at the Berlin School of Mind and Brain. I did my Bachelor's in philosophy at the University of Bologna. I am currently working as a research assistant at the Social Intelligence Lab,approach avoidance biases, the effect of groups' configurations in a Virtual Reality environment. My research interests center around theory of consciousness, free will, cognition and evolutionary psychology/neuroscience, with a special interest in metacognition as a feature of consciousness and in global workspace theories of consciousness."
   - name: Jurena Wille
     id: jurenaWille
     url: https://www.researchgate.net/profile/Jurena-Wille
     image_path: /assets/images/team/default.jpg
-    title: Lab Rotation Student
+    title: Student Research Assistant/Lab Rotation Student
     excerpt: "My name is Jurena Wille, I am from Germany and I have a graduate degree in psychology with a focus on cognitive neuroscience and legal psychology. In my master's thesis I investigated the influence of conceptual and visual features on memory performance for visual scenes. Currently I am a student in the master's program of the Berlin School of Mind and Brain and work a lab rotation in the Social Intelligence lab under the supervision of Prof. Dr. Marcel Brass and Dr. Davis Wiesniewski. My main research interests lie in conformity behavior, perceptions of morality and responsibility attributions."
   - name: Moritz Bammel 
     id: moritzbammel 
