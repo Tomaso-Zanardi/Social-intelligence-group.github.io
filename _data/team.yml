@@ -72,13 +72,6 @@ people:
     excerpt: "My name is Manisha, I work on a DAAD-funded doctoral project at the Social Intelligence lab. My project examines how social influence operates in the context of ritualistic behaviour. I attempt to recreate aspects of the social world in VR environments as I am intrigued by the confluence between cognitive neuroscience and anthropology. I completed my postgraduate studies at the University of Oxford and previously received training in cognitive science from Indian Institute of Technology (IITGN) at the Control and Learning of Action Lab. I have a keen interest in embodied cognition, two-person neuroscience and group conformity."
     twitter: manisha_biswas_
     orcid: 0000-0001-5389-9900
-  - name: Wei Peng
-    id: WeiPeng
-    url:  https://orcid.org/0000-0001-5197-7282
-    image_path: /assets/images/team/default.jpg
-    title: PhD Student
-    excerpt: "My name is Wei Peng. I am a Ph.D student at Ghent University (supported by Chinese Scholarship Council). Before I started my Ph.D at Ghent University, I was doing some research about human addiction (smoking, drugs et al.) using fMRI and rTMS at Hangzhou Normal University in China. During my Ph.D, I am interested in the relationships between high-level beliefs and fundamental social perception."
-    orcid: 0000-0001-5197-7282
   - name: Yu Hei SHUM .
     id: yshum
     url: https://www.researchgate.net/profile/Yu-Shum
@@ -95,9 +88,9 @@ people:
     github: neltavernier
   - name: Maria Woitow
     id: mariawoitow
-    image_path: /assets/images/team/default.jpg
+    image_path: /assets/images/team/Maria.png
     title: PhD Student
-    excerpt: "My name is Maria Woitow and I come from Germany. I am currently a Ph.D. student at the Berlin School of Mind and Brain and the Humboldt University of Berlin supervised by Prof. Marcel Brass and Dr. Myriam Sander. I completed my masters degree in Neural and Behavioral Biology at the Georg August University of Göttingen. My PhD research topic is the neural mechanisms underlying experiential and observational learning and how they affect memory formation. I take a neural (EEG), behavioral and computational modelling approach to study whether both learning types differ in their effect on memory encoding and to check for possible age-dependent differences during human development."
+    excerpt: "My name is Maria Woitow and I am from Germany. I am currently a Ph.D. student at the Berlin School of Mind and Brain and the Humboldt University of Berlin supervised by Prof. Marcel Brass and Dr. Myriam Sander. I completed my master's degree in Neural and Behavioral Biology at the Georg August University of Göttingen. My Ph.D. research project focuses on the neural and computational mechanisms underlying experiential and observational learning and how both learning strategies affect memory formation. To investigate whether experiential and observational learning differ in their effect on memory encoding, I am taking a neurocomputational approach combining neural (EEG) and behavioral data with computational modeling."
   - name: Omar Angelo Ibrahim
     id: omaribrahim
     url: https://www.researchgate.net/profile/Omar-Ibrahim-24
