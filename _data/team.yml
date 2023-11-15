@@ -88,7 +88,7 @@ people:
     github: neltavernier
   - name: Maria Woitow
     id: mariawoitow
-    image_path: /assets/images/team/Maria.png
+    image_path: /assets/images/team/Maria_edited.png
     title: PhD Student
     excerpt: "My name is Maria Woitow and I am from Germany. I am currently a Ph.D. student at the Berlin School of Mind and Brain and the Humboldt University of Berlin supervised by Prof. Marcel Brass and Dr. Myriam Sander. I completed my master's degree in Neural and Behavioral Biology at the Georg August University of Göttingen. My Ph.D. research project focuses on the neural and computational mechanisms underlying experiential and observational learning and how both learning strategies affect memory formation. To investigate whether experiential and observational learning differ in their effect on memory encoding, I am taking a neurocomputational approach combining neural (EEG) and behavioral data with computational modeling."
    - name: Maximilian Marschner
