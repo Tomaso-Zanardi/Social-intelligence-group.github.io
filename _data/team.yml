@@ -91,6 +91,11 @@ people:
     image_path: /assets/images/team/Maria.png
     title: PhD Student
     excerpt: "My name is Maria Woitow and I am from Germany. I am currently a Ph.D. student at the Berlin School of Mind and Brain and the Humboldt University of Berlin supervised by Prof. Marcel Brass and Dr. Myriam Sander. I completed my master's degree in Neural and Behavioral Biology at the Georg August University of Göttingen. My Ph.D. research project focuses on the neural and computational mechanisms underlying experiential and observational learning and how both learning strategies affect memory formation. To investigate whether experiential and observational learning differ in their effect on memory encoding, I am taking a neurocomputational approach combining neural (EEG) and behavioral data with computational modeling."
+   - name: Maximilian Marschner
+    id: maximilianmarschner
+    image_path: /assets/images/team/default.jpg
+    title: Visiting PhD Student
+    excerpt: "I am a visiting PhD student from Central European University (Vienna), where I work under the supervision of Günther Knoblich and Natalie Sebanz. My PhD work centers around the question of how acting together with others in the service of shared goals influence people’s action planning processes and their underlying mental representations. As part of my PhD, I am currently visiting the Social Intelligence Lab for a collaboration with Silvia Formica and Marcel Brass in which we investigate the neural signatures of joint action representations and their modulating effects on automatic imitation effects."
   - name: Omar Angelo Ibrahim
     id: omaribrahim
     url: https://www.researchgate.net/profile/Omar-Ibrahim-24
