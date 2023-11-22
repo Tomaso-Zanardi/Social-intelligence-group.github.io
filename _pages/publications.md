@@ -3,7 +3,7 @@ permalink: /publications/
 layout: single
 author_profile: false
 share: false
-years: [2022, 2021, 2020]
+years: [2023, 2022, 2021, 2020]
 page_js:
   - /assets/js/drop-down-effect.js
 ---
