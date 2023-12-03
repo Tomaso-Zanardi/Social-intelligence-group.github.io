@@ -10,24 +10,15 @@ feature_row:
   image_path: /assets/images/methods/VR.PNG
   btn_class: "btn--primary"
   btn_label: "Open website"
----
 
----
-permalink: /methods/
-layout: collection
-author_profile: false
-share: false
-page_css:
-- /assets/css/methods.css
-feature_row:
-- title: VR
 <br />
 <div class="grid__wrapper">
 {% include feature_row %}
 </div>
 <!-- Embed your YouTube video here -->
-[![Video Title](URL_of_Thumbnail_Image)]([URL_of_YouTube_Video](https://www.youtube.com/watch?v=kJrp8e0Uzic&t=967s))
-
+<a href="https://www.youtube.com/watch?v=kJrp8e0Uzic&t=967s">
+  <img src="https://www.youtube.com/watch?v=kJrp8e0Uzic&t=967s" alt="Video Title">
+</a>
 
 <br />
 <div class="grid__wrapper">
